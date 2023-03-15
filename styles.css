@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#icons {
+    margin: 50px;
+}
+
+#icon1 {
+    margin-right: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+#youtube-icon {
+    margin-right: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    height: 200px;
+    width: 200px;
+}
+
+#fotos-icon {
+    margin-right: 50px;
+    margin-left: 50px;
+    display: inline-block;
+    height: 200px;
+    width: 205px;
+}
+
+.cycle {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #003d1c;
+}
+
+.quadrant {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 0 0 0 100%;
+    background-color: #56c288;
+}
+
+.square {
+    display: inline-block;
+    height: 95px;
+    width: 95px;
+    border-radius: 10% 10% 10% 10%;
+    background-color: #6875ec;
+}
+
+.cycle2 {
+    display: inline-block;
+    margin-left: 5px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #ccd1d7;
+}
+
+.youtube {
+    height: 120px;
+    width: 240px;
+    margin-bottom: 50%;
+    border-radius: 30% 30% 30% 30%;
+    background-color: #ff0101;
+}
+
+.triangle {
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 13%;
+    border: 30px solid transparent; 
+    border-left: 30px solid rgb(255, 255, 255);
+}
+
+.semicircle {
+    margin-right: 5px;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    border-radius: 144px 144px 10px 10px;
+    background-color: #f6b800;
+}
+
+.semicircle2 {
+    display: inline-block;
+    height: 100px;
+    width: 50px;
+    border-radius: 10px 144px 144px 10px;
+    background-color: #e64132;
+}
+
+.semicircle3 {
+    margin-left: 50px;
+    display: inline-block;
+    height: 100px;
+    width: 50px;
+    border-radius: 144px 10px 10px 144px;
+    background-color: #31a452;
+}
+
+.semicircle4 {
+    margin-left: 5px;
+    margin-bottom: 50px;
+    display: inline-block;
+    height: 50px;
+    width: 100px;
+    border-radius: 10px 10px 144px 144px;
+    background-color: #4081ef;
+}
