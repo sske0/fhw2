@@ -74,10 +74,10 @@ body {
 
 .triangle {
     display: inline-block;
-    margin-left: 45%;
+    margin-left: 43.5%;
     margin-top: 13%;
     border: 30px solid transparent; 
-    border-left: 30px solid rgb(255, 255, 255);
+    border-left: 50px solid rgb(255, 255, 255);
 }
 
 .semicircle {
